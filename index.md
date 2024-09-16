@@ -4,11 +4,11 @@
   <h2>Projects</h2>
   <ul class="projects-list">
     <li>
-      <a href="https://github.com/AngadKannaujiya/Logistics-Regression/blob/main/Pima%20Indian%20Diabetes.ipynb">
+      <a href="https://github.com/AngadKannaujiya/Logistics-Regression/blob/main/Pima%20Indian%20Diabetes.ipynb">Diabetes Class Prediction</a>
+    <li>
+      <p>Short description of Project 1.</p>    
         <img src="images/thumbnail.png" alt="Project 1 Thumbnail" class="project-thumbnail">
       </a>
-      <h3>Diabetes Class Prediction</h3>
-      <p>Short description of Project 1.</p>
     </li>
     <li>
       <a href="https://github.com/your-github-username/project-2">
