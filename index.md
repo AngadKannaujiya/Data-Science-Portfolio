@@ -1,5 +1,31 @@
 # Data Science & Analytics Portfolio List
 
-### [Diabetes Classification](https://github.com/AngadKannaujiya/Logistics-Regression/blob/main/Pima%20Indian%20Diabetes.ipynb)
-<img src="https://github.com/AngadKannaujiya/Data-Science-Portfolio/blob/main/images/thumbnail.png?" width="250"/>
+<div class="projects-container">
+  <h2>Projects</h2>
+  <ul class="projects-list">
+    <li>
+      <a href="https://github.com/AngadKannaujiya/Logistics-Regression/blob/main/Pima%20Indian%20Diabetes.ipynb">
+        <img src="images/thumbnail.png" alt="Project 1 Thumbnail" class="project-thumbnail">
+      </a>
+      <h3>Diabetes Class Prediction</h3>
+      <p>Short description of Project 1.</p>
+    </li>
+    <li>
+      <a href="https://github.com/your-github-username/project-2">
+        <img src="project-2-thumbnail.jpg" alt="Project 2 Thumbnail" class="project-thumbnail">
+      </a>
+      <h3>Project 2</h3>
+      <p>Short description of Project 2.</p>
+    </li>
+  </ul>
+</div>
+
+<style>
+  .profile-container {
+    /* Styles for the left section (profile) */
+  }
+  .projects-container {
+    /* Styles for the right section (projects) */
+  }
+</style>
 
