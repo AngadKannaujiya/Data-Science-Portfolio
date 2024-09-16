@@ -8,7 +8,6 @@
     <li>
       <p>Short description of Project 1.</p>    
         <img src="images/thumbnail.png" alt="Project 1 Thumbnail" class="project-thumbnail">
-      </a>
     </li>
     <li>
       <a href="https://github.com/your-github-username/project-2">
