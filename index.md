@@ -12,10 +12,10 @@
     </li>
     <li>
       <a href="https://github.com/your-github-username/project-2">
+    <li>
+      <p>Short description of Project 2.</p>
         <img src="project-2-thumbnail.jpg" alt="Project 2 Thumbnail" class="project-thumbnail">
       </a>
-      <h3>Project 2</h3>
-      <p>Short description of Project 2.</p>
     </li>
   </ul>
 </div>
