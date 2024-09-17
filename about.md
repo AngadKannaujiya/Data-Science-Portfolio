@@ -10,8 +10,6 @@
   </ul>
   <h3>Social Links</h3>
   <ul>
-    {% for social_link in site.social %}
-      <li><a href="{{ social_link[1] }}">{{ social_link[0] }}</a></li>
-    {% endfor %}
+      <li><a href="https://www.linkedin.com/in/angad-kannaujiya/">linkedin</a></li>
   </ul>
 </div>
