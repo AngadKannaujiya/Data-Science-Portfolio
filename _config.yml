@@ -1,5 +1,5 @@
 title: Angad Kannaujiya
-profile_photo: images/profile.png
+logo: "/images/profile.png?raw=true"
 theme: jekyll-theme-minimal
 menu:
   -  name: About
