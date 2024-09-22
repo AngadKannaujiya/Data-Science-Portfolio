@@ -1,6 +1,4 @@
 title: Angad Kannaujiya
 logo: "/images/profile.png?raw=true"
 theme: jekyll-theme-minimal
-menu:
-  -  name: About
-     url:https://github.com/AngadKannaujiya/Data-Science-Portfolio/blob/main/about.md 
+
