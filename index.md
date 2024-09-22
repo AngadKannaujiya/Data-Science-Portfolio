@@ -1,4 +1,4 @@
-# Data Science & Analytics Portfolio List
+# Data Science & Analytics Portfolio
 
 <div class="projects-container">
   <h2>Projects</h2>
