@@ -10,10 +10,10 @@
         <img src="images/thumbnail.png" alt="Project 1 Thumbnail" class="project-thumbnail">
     </li>
     <li>
-      <a href="https://github.com/AngadKannaujiya/Portfolio/blob/main/Exploratory%20Data%20Analysis.ipynb">EDA</a>
+      <a href="https://github.com/AngadKannaujiya/Regression-Project/blob/main/Evaluation%20Score.ipynb">EDA</a>
     <li>
       <p>Short description of Project 2.</p>
-        <img src="images/EDA-thumbnail.png" alt="Project 2 Thumbnail" class="project-thumbnail">
+        <img src="images/Evaluation Score.png" alt="Project 2 Thumbnail" class="project-thumbnail">
       </a>
     </li>
   </ul>
