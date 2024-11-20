@@ -6,7 +6,7 @@
     <li>
       <a href="https://github.com/AngadKannaujiya/Logistics-Regression/blob/main/Pima%20Indian%20Diabetes.ipynb">Diabetes Class Prediction</a>
     <li>
-      <p>Short description of Project 1.</p>    
+      <p>Building a predictive model using logistic regression to classify whether a person has diabetes.</p>    
         <img src="images/thumbnail.png" alt="Project 1 Thumbnail" class="project-thumbnail">
     </li>
     <li>
